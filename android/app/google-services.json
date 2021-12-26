@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43179723858",
+    "project_id": "flash-chat-6115c",
+    "storage_bucket": "flash-chat-6115c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43179723858:android:7484731c7dabf5fb9ee38b",
+        "android_client_info": {
+          "package_name": "olaoluwa.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43179723858-j6dfu2pi6fmuro9i6gt3m2h2m8pc5s2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ql9ScimJlaPZqnzgc1H-qF5H-7vt5L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43179723858-j6dfu2pi6fmuro9i6gt3m2h2m8pc5s2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
